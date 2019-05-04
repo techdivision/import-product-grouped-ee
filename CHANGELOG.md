@@ -1,3 +1,13 @@
+# Version 4.0.0
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Switch to techdivision/import-product-ee 9.0.* and techdivision/import-product-gropued 4.0.* version as dependency
+
 # Version 3.0.0
 
 ## Bugfixes
