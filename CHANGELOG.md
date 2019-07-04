@@ -1,3 +1,13 @@
+# Version 8.0.0
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Switch to techdivision/import-product-ee 13.* and techdivision/import-product-gropued 8.* version as dependency
+
 # Version 7.0.0
 
 ## Bugfixes
