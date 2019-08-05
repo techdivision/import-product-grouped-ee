@@ -1,3 +1,13 @@
+# Version 9.0.1
+
+## Bugfixes
+
+* Update versions for composer dependencies
+
+## Features
+
+* None
+
 # Version 9.0.0
 
 ## Bugfixes
