@@ -1,3 +1,13 @@
+# Version 10.0.0
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Switch to techdivision/import-product-ee 15.* and techdivision/import-product-gropued 10.* version as dependency
+
 # Version 9.0.1
 
 ## Bugfixes
