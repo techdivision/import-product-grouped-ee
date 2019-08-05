@@ -1,3 +1,14 @@
+# Version 9.0.0
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Refactor subject implementation, extend from EeBunchSubject instead of LinkSubject
+* Switch to techdivision/import-product-ee 14.* and techdivision/import-product-gropued 9.* version as dependency
+
 # Version 8.0.0
 
 ## Bugfixes
