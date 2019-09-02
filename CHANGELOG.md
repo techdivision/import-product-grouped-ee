@@ -1,3 +1,13 @@
+# Version 12.0.0
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Switch to techdivision/import-product-ee 17.* and techdivision/import-product-gropued 12.* version as dependency
+
 # Version 11.0.0
 
 ## Bugfixes
