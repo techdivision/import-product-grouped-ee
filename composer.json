@@ -4,7 +4,7 @@
     "license": "OSL-3.0",
     "require": {
         "php": ">=7.1.0",
-        "techdivision/import-product-link-ee": "19.*",
+        "techdivision/import-product-link-ee": "20.*",
         "techdivision/import-product-grouped": "13.*"
     },
     "require-dev": {
