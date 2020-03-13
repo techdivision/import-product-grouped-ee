@@ -19,6 +19,27 @@
             <argument type="service" id="import.events.emitter"/>
         </service>
 
+        <!--
+         | The DI configuration for the composite observers of the replace operation.
+         |-->
+        <service id="import_product_grouped_ee.observer.composite.replace" class="TechDivision\Import\Observers\GenericCompositeObserver">
+            <call method="addObserver">
+                <argument id="import_product_grouped_ee.observer.grouped.product.relation" type="service"/>
+            </call>
+        </service>
+
+        <!--
+         | The DI configuration for the composite observers of the add-update operation.
+         |-->
+        <service id="import_product_grouped_ee.observer.composite.add_update" class="TechDivision\Import\Observers\GenericCompositeObserver">
+            <call method="addObserver">
+                <argument id="import_product_grouped.observer.sku.entity.id.mapping" type="service"/>
+            </call>
+            <call method="addObserver">
+                <argument id="import_product_grouped_ee.observer.grouped.product.relation.update" type="service"/>
+            </call>
+        </service>
+
     </services>
 
 </container>
