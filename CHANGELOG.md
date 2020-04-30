@@ -1,3 +1,13 @@
+# Version 15.0.0
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Switch to techdivision/import-product-ee 20.* and techdivision/import-product-gropued 14.* version as dependency
+
 # Version 14.0.2
 
 ## Bugfixes
