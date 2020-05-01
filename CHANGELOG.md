@@ -6,7 +6,7 @@
 
 ## Features
 
-* Switch to techdivision/import-product-ee 20.* and techdivision/import-product-gropued 14.* version as dependency
+* Switch to techdivision/import-product-link-ee 21.* and techdivision/import-product-gropued 14.* version as dependency
 
 # Version 14.0.2
 
