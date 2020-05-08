@@ -1,3 +1,13 @@
+# Version 16.0.0
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Switch to techdivision/import-product-link-ee 22.* and techdivision/import-product-gropued 15.* version as dependency
+
 # Version 15.0.0
 
 ## Bugfixes
