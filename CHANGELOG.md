@@ -1,3 +1,13 @@
+# Version 18.0.0
+
+## Bugfixes
+
+* Fixed #PAC-130
+
+## Features
+
+* Switch to techdivision/import-product-link-ee 24.*
+
 # Version 17.0.0
 
 ## Bugfixes
