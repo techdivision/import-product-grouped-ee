@@ -1,3 +1,13 @@
+# Version 20.0.0
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Switch to techdivision/import-product-link-ee 26.* and techdivision/import-product-gropued 18.* version as dependency
+
 # Version 19.0.0
 
 ## Bugfixes
