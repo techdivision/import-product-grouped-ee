@@ -17,7 +17,7 @@
  * @link      https://github.com/techdivision/import-product-grouped
  */
 
-namespace TechDivision\Import\Product\Grouped\DependencyInjection;
+namespace TechDivision\Import\Product\Grouped\Ee\DependencyInjection;
 
 use Symfony\Component\Config\FileLocator;
 use Symfony\Component\HttpKernel\DependencyInjection\Extension;
