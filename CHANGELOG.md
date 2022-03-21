@@ -7,6 +7,7 @@
 ## Features
 
 * Switch to techdivision/import-product-link-ee 26.* and techdivision/import-product-gropued 18.* version as dependency
+* PAC-541: Update composer with php Version ">=^7.3"
 
 # Version 19.0.0
 
