@@ -1,3 +1,13 @@
+# Version 21.0.0
+
+## Bugfixes
+
+* None
+
+## Features
+
+* PAC-541: Update composer configuration with php Version ">=^7.3"
+
 # Version 20.0.0
 
 ## Bugfixes
