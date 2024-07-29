@@ -11,6 +11,9 @@
         <service id="import_product_grouped_ee.observer.grouped.product.relation.update" class="TechDivision\Import\Product\Grouped\Ee\Observers\EeGroupedProductRelationUpdateObserver">
             <argument type="service" id="import_product_grouped.processor.product.grouped"/>
         </service>
+        <service id="import_product_grouped_ee.observer.clean.up.product.grouped" class="TechDivision\Import\Product\Grouped\Ee\Observers\EeCleanUpGroupedObserver">
+            <argument type="service" id="import_product_grouped.processor.product.grouped"/>
+        </service>
 
         <service id="import_product_grouped_ee.subject.grouped" class="TechDivision\Import\Product\Grouped\Ee\Subjects\EeGroupedSubject" shared="false">
             <argument type="service" id="import.processor.registry"/>
