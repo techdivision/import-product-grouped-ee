@@ -1,3 +1,9 @@
+# Version 22.0.2
+
+## Bugfixes
+
+* fixing typing error
+
 # Version 22.0.1
 
 ## Bugfixes

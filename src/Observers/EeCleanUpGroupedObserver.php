@@ -29,6 +29,6 @@ class EeCleanUpGroupedObserver extends CleanUpGroupedProductRelationObserver
      */
     protected function getLastPrimaryKey(): int
     {
-        return $this->getSubject()->getLastRowId();
+        return (int)$this->getSubject()->getLastRowId();
     }
 }
